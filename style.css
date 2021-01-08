@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+  /* background-color: #ff7b54; */
+  background-image: linear-gradient(125deg, #ff7b54, #ffd56b);
+}
+
+.main {
+  width: 80%;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.main h1 {
+  font-size: 140px;
+  font-weight: 900;
+  letter-spacing: 20px;
+}
+
+.back {
+  border-radius: 25px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
+  padding: 12px 24px;
+  background-color: #939b62;
+  display: inline-block;
+  margin-bottom: 20px;
+}
